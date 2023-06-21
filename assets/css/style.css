@@ -82,6 +82,11 @@ section {
     border-radius: 30px;
 }
 
+.banner-content button a {
+    text-decoration: none;
+    color: white;
+}
+
 #course-content {
     width: 800px;
     text-align: center;
